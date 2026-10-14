@@ -4,7 +4,8 @@ Page HTML unique (sans dépendance, sans build) affichant la table des nucléide
 
 ## Utilisation
 
-Aller sur 
+Aller sur le site : 
+> https://stackoverflow-dev.github.io/nz-table/
 
 ### Navigation
 - **Mobile** : un doigt pour déplacer (avec inertie), pincement pour zoomer, double-tap pour zoomer ×2.
